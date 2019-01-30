@@ -1,3 +1,6 @@
 [submodule "Common_project"]
 	path = Common_project
 	url = https://github.com/Hulk694/Common_project.git
+[submodule "slime/test/test_project"]
+	path = slime/test/test_project
+	url = https://github.com/Hulk694/test_project.git
